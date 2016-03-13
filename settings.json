@@ -1,0 +1,8 @@
+{
+	"galaxy.meteor.com": {
+		"env": {
+			"ROOT_URL": "http://calculator.rachelbahl.com",
+			"MONGO_URL": "mongodb://jasonbahl:jbutt#123@ds011439.mlab.com:11439/rachel-calculator"
+		}
+	}
+}
